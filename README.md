@@ -30,11 +30,7 @@ Our mission is to make agriculture more **efficient, fair, and sustainable**.
 
 ---
 
-## 📸 Screenshots  
 
-*(Add screenshots or demo GIFs of your website here)*  
-
----
 
 ## 🎯 Problem Statement  
 
