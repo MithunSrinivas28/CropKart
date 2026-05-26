@@ -23,18 +23,14 @@ Our mission is to make agriculture more **efficient, fair, and sustainable**.
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React.js / TailwindCSS  
+- **Frontend**:HTML5, CSS3, React.js  
 - **Backend**: Node.js / Express  
-- **Database**: MongoDB / Firebase  
-- **Other**: WebSockets for live updates, REST API for marketplace  
+- **Database**: MongoDB  
+
 
 ---
 
-## 📸 Screenshots  
 
-*(Add screenshots or demo GIFs of your website here)*  
-
----
 
 ## 🎯 Problem Statement  
 
